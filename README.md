@@ -21,7 +21,7 @@
 
 ---
 
-**Copyright (c) 2016 Júlia Rizza**  
+**Copyright (c) 2025 Erik Bañez Rojas**  
 Licenciado bajo la licencia [MIT License (MIT)](LICENSE).
 
 ---
